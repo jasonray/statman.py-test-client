@@ -1,1 +1,1 @@
-# statman.py-test-client
+Purpose of this repo is to test out consumption of statman (python) via pypi
