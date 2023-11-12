@@ -1,5 +1,4 @@
 import unittest
-import pytest
 from statman import Statman
 import time
 
