@@ -3,6 +3,7 @@ import pytest
 from statman import Statman
 import time
 
+
 class TestStatman(unittest.TestCase):
     _accepted_variance = 0.1
 
