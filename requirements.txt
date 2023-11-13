@@ -1,1 +1,1 @@
-statman==0.1.2
+statman==0.2.0
